@@ -1,4 +1,4 @@
-# Angular7DragDrop
+# Angular 7 - Web API CRUD Example
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0-rc.0.
 <p align="center">
   <img src="https://raw.githubusercontent.com/fcetinkaya/Angular7CRUD_WebAPI-2/master/Angular7CRUD_Employee.JPG">
